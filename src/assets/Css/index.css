@@ -1,0 +1,6 @@
+@import "./inter-font.css";
+@import "./Vazirmatn-font-face.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
